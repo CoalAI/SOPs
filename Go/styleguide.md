@@ -8,7 +8,7 @@ If you have any better suggestion, reach out to us!
 
 * [Gofmt](#gofmt)
 * [Comment Sentences](#comment-sentences)
-* [Name Conventions](#name-conventions)
+* [Naming Conventions](#naming-conventions)
 * [Imports](#imports)
 * [Unit Tests](#unit-tests)
 * [Error Handling](#error-handling)
